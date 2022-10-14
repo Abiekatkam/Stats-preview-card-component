@@ -2,6 +2,10 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+## View Output
+
+[Click here](https://abiekatkam.github.io/Stats-preview-card-component/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
